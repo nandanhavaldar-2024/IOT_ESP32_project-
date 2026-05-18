@@ -431,9 +431,7 @@ This doesn't mean the other ones aren't useful but the use depe ds on the situat
 
 This experiment explores the basics of the MQTT protocol and its working model in IoT communication systems. MQTT is a lightweight publish–subscribe messaging protocol where devices communicate through a central broker instead of sending messages directly to each other. A publisher device sends a control message (such as an LED ON/OFF command) to a specific topic on the broker, and all subscriber devices that are subscribed to that topic receive the message instantly. In this setup, when a message is published to control LEDs, the subscriber device reads the received payload and activates the corresponding LED accordingly. Through this activity, learners understand how MQTT enables efficient, low-bandwidth, real-time device communication and how it compares with other network and communication protocols used in IoT systems.
 
-<iframe width="951" height="535" src="https://www.youtube.com/embed/1u9TokzrfCk" title="Mqtt protocol" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[Source code](https://github.com/souparna100/Mqtt-publish-practice/tree/maindef)
+[Source code](https://youtu.be/KAj7hiiVbUE)
 
 # Task 4 – Communication using I2C Protocol
 
