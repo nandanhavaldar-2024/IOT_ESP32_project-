@@ -117,7 +117,7 @@ In each turn, the game will play the sequence, and then wait for the user to rep
 The game continues until the user has made a mistake. Then a game over sound is played, and the game restarts.
 ![alt text](https://github.com/Souparno-Baidya/report_photos/blob/main/Screenshot%202026-01-12%20015022.png?raw=true)
 
-[Source code](https://github.com/souparna100/Simon-Says/tree/main)
+[Source code](https://github.com/nandanhavaldar-2024/simon-say-/blob/main/code%20of%20simon%20say)
 
 # Task 2 – Temperature-Based Fan Control
 
