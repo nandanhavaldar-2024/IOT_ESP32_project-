@@ -459,7 +459,8 @@ In this task, I set up an ESP32 to host a web server where users on a graph like
 
 This implements a real-time heart rate using a microcontroller connected to a bbp sensor. The measured physiological signals are processed and transmitted to a built-in webserver, where they are displayed graphically in a browser dashboard. The system enables remote, contact-based health monitoring using IoT principles.
 
-[Sorce code](https://github.com/nandanhavaldar-2024/health_monitor-_code/blob/main/Code_Health_monitor)
+[Sorce code](https://github.com/nandanhavaldar-2024/health_monitor-_code/blob/main/Code_Health_monitor) 
+[Source code](https://youtube.com/shorts/d8qQ9S864SI?si=-Lwp16zKdEKL6DV3)
 
 
 ## Task 7-  Fire Alarm System with SMS Alerts
