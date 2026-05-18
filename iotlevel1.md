@@ -461,7 +461,7 @@ This implements a real-time heart rate using a microcontroller connected to a bb
 
 [Sorce code](https://github.com/nandanhavaldar-2024/health_monitor-_code/blob/main/Code_Health_monitor)
 
-<iframe width="337" height="599" src="https://www.youtube.com/embed/GM-inXMmGyM" title="Bp sensor and health dashboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Source code](https://github.com/nandanhavaldar-2024/simon-say-/blob/main/code%20of%20simon%20say)
 
 
 ## Task 7-  Fire Alarm System with SMS Alerts
@@ -474,6 +474,5 @@ The ESP32, always connected to Wi-Fi, continuously monitors the sensor. When fir
 
 [Source code](https://github.com/souparna100/FIRESMS/tree/main)
 
-<iframe width="951" height="535" src="https://www.youtube.com/embed/USC8r5KQ37c" title="FIRE SMS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+[Source code](https://github.com/nandanhavaldar-2024/simon-say-/blob/main/code%20of%20simon%20say)
 [def]: https://github.com/souparna100/Mqtt-publish-practice/tree/main
