@@ -473,7 +473,9 @@ For this task, I used an temperature sensor and an ESP32. The flame sensor detec
 
 The ESP32, always connected to Wi-Fi, continuously monitors the sensor. When fire is detected, it immediately sends an email alert to notify selected recipients about the potential fire hazard.
 
-[Source code](https://github.com/nandanhavaldar-2024/Fire_alaram/blob/main/Code_fire_alaram)
+[Source code](https://github.com/nandanhavaldar-2024/Fire_alaram/blob/main/Code_fire_alaram) 
+
+[Source code](https://youtube.com/shorts/C8hanlmNFac?si=76SOT1Jh6Bwpjj7T)
 
 
 
