@@ -461,8 +461,6 @@ This implements a real-time heart rate using a microcontroller connected to a bb
 
 [Sorce code](https://github.com/nandanhavaldar-2024/health_monitor-_code/blob/main/Code_Health_monitor)
 
-[Source code](https://github.com/nandanhavaldar-2024/simon-say-/blob/main/code%20of%20simon%20say)
-
 
 ## Task 7-  Fire Alarm System with SMS Alerts
 
@@ -475,4 +473,4 @@ The ESP32, always connected to Wi-Fi, continuously monitors the sensor. When fir
 [Source code](https://github.com/souparna100/FIRESMS/tree/main)
 
 [Source code](https://github.com/nandanhavaldar-2024/simon-say-/blob/main/code%20of%20simon%20say)
-[def]: https://github.com/souparna100/Mqtt-publish-practice/tree/main
+
